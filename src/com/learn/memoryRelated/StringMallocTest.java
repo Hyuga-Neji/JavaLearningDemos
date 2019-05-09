@@ -11,6 +11,6 @@ public class StringMallocTest {
 
         System.out.println( str == test);
         System.out.println( test == strObj );
-        
+
     }
 }
